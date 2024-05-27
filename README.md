@@ -29,4 +29,4 @@ Zajil Express is a logistics and shipment management app designed to streamline 
 
 ## Contact
 
-For any questions, feedback, or collaboration opportunities, feel free to reach out to me at [anandyadav21219@gmail.com](mailto:anandyadav21219@gmail.com).
+For any questions, feedback, or collaboration opportunities, feel free to reach out to me at [anandyadav21219@gmail.com](mailto:anandyadav21219@gmail.com)
