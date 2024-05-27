@@ -25,7 +25,7 @@ Zajil Express is a logistics and shipment management app designed to streamline 
 
 ### Screenshots
 
-![Zajil Express App](https://github.com/anandyadav21219/Zajil-Express-App/blob/main/zajil_express_app.png?raw=true)
+![Zajil Express App](https://github.com/anandyadav21219/Zajil-Express-App/blob/main/zajil_app.png?raw=true)
 
 ## Contact
 
